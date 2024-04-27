@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>EPN student</a>. Av. Ladrón de Guevara E11-253. +593 969 038 973.
+subtitle: <a href='https://www.epn.edu.ec/'>EPN</a>. Av. Ladrón de Guevara E11-253. +593 969 038 973.
 
 profile:
   align: right
@@ -10,11 +10,11 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>QuitoLoma street</p>
-    <p>Quito, Calderón</p>
+    <p>Ecuador, Quito, Calderón</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am student from EPN college, I am studying engineering in Computer Science since 2021. I graduated in IB high school.
