@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>EPN student</a>. Av. Ladrón de Guevara E11-253. +593 969 038 973.
 
 profile:
   align: right
   image: imgused.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>QuitoLoma street</p>
     <p>Quito, Calderón</p>
