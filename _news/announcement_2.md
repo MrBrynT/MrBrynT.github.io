@@ -1,33 +1,31 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: The EPN will represent Ecuador in the Huawei ICT Competition
+date: 2024-04-27 12:00:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+The National Polytechnic School (EPN) was one of the regional winners of the “Huawei ICT Competition 2023 – 2024 LATAM” event, in the “Network Track” modality, and will represent Ecuador in the global competition that will take place in China, in May 2024.
 
----
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+#### The winning universities in this category were
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>1st place: Instituto Federal de Paraiba (Brazil)</li>
+    <li>2nd place: Instituto Profesional INACAP (Chile) and Universidad del Cauca (Colombia)</li>
+    <li>3rd place: Universidad Anahuác Oaxaca (Mexico) and Escuela Politecnica Nacional</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+The EPN team, “EPN Network”, is made up of students Erick Alexander Vera Toscano and Verónica Lucía Zúñiga Negrete, both from the Faculty of Systems Engineering (FIS) and Jhoanna Karolina Rodríguez Sangoluisa, from the Faculty of Electrical Engineering and Electronics (FIEE). Your tutor in the competition is Eng. Carlos Alfonso Herrera Muñoz, professor of the Department of Electronics, Telecommunications and Information Networks (DETRI), which belongs to the FIEE.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+The “Huawei ICT Competition 2023-2024” is a competition aimed at students from institutions and universities in Latin America, whose objective is to develop skills in information technologies (ICT). Students can choose from Cloud, Network, and Computing categories. Its motto is “Connection, glory and future.”
+---
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+If you want to read this news in the source of origin. Please 
+<ul> 
+    <li>
+        <a href="https://www.instagram.com/epn_ecuador/p/C6M01MHvaDW/?img_index=3">click here.</a>
+    </li>
+</ul> 
